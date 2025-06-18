@@ -1,0 +1,21 @@
+services:
+  telegram-bot:
+    build:
+      context: ./telegram-bot-app
+    container_name: telegram-bot-app
+    env_file: ./telegram-bot-app/.env
+    networks:
+      - app-network
+
+  streamlit-app:
+    build:
+      context: ./streamlit-app
+    container_name: streamlit-app
+    ports:
+      - "8501:8501"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
