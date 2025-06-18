@@ -1,0 +1,46 @@
+2025-06-18 16:38:47,962 - INFO - Bot started
+2025-06-18 16:38:48,141 - INFO - Start polling
+2025-06-18 16:38:48,194 - INFO - Run polling for bot @translit_telebot id=7731030208 - 'Телеграм транслит бот'
+2025-06-18 16:38:52,338 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 16:38:52,338 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7731030208)
+2025-06-18 16:38:53,036 - WARNING - Received SIGINT signal
+2025-06-18 16:38:53,037 - INFO - Polling stopped for bot @translit_telebot id=7731030208 - 'Телеграм транслит бот'
+2025-06-18 16:38:53,037 - INFO - Polling stopped
+2025-06-18 16:38:55,172 - INFO - Bot started
+2025-06-18 16:38:55,286 - INFO - Start polling
+2025-06-18 16:38:55,339 - INFO - Run polling for bot @translit_telebot id=7731030208 - 'Телеграм транслит бот'
+2025-06-18 16:38:59,796 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 16:38:59,796 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7731030208)
+2025-06-18 16:39:04,404 - WARNING - Received SIGINT signal
+2025-06-18 16:39:04,408 - INFO - Polling stopped for bot @translit_telebot id=7731030208 - 'Телеграм транслит бот'
+2025-06-18 16:39:04,409 - INFO - Polling stopped
+2025-06-18 16:39:06,352 - INFO - Bot started
+2025-06-18 16:39:06,516 - INFO - Start polling
+2025-06-18 16:39:06,577 - INFO - Run polling for bot @translit_telebot id=7731030208 - 'Телеграм транслит бот'
+2025-06-18 16:39:11,957 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 16:39:11,958 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7731030208)
+2025-06-18 16:39:18,876 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 16:39:18,877 - WARNING - Sleep for 1.290042 seconds and try again... (tryings = 1, bot id = 7731030208)
+2025-06-18 16:39:24,055 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 16:39:24,056 - WARNING - Sleep for 1.580471 seconds and try again... (tryings = 2, bot id = 7731030208)
+2025-06-18 16:39:28,999 - WARNING - Received SIGINT signal
+2025-06-18 16:39:29,001 - INFO - Polling stopped for bot @translit_telebot id=7731030208 - 'Телеграм транслит бот'
+2025-06-18 16:39:29,001 - INFO - Polling stopped
+2025-06-18 16:39:41,371 - INFO - Bot started
+2025-06-18 16:39:41,539 - INFO - Start polling
+2025-06-18 16:39:41,596 - INFO - Run polling for bot @translit_telebot id=7731030208 - 'Телеграм транслит бот'
+2025-06-18 16:39:46,799 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 16:39:46,800 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7731030208)
+2025-06-18 16:39:54,240 - INFO - Connection established (tryings = 1, bot id = 7731030208)
+2025-06-18 16:39:54,242 - INFO - Received: привет | Transliterated: privet
+2025-06-18 16:39:54,491 - INFO - Update id=58647649 is handled. Duration 248 ms by bot id=7731030208
+2025-06-18 16:39:55,955 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 16:39:55,955 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7731030208)
+2025-06-18 16:39:57,684 - INFO - Connection established (tryings = 1, bot id = 7731030208)
+2025-06-18 16:39:57,686 - INFO - Received: Игорь | Transliterated: Igor
+2025-06-18 16:39:57,859 - INFO - Update id=58647650 is handled. Duration 173 ms by bot id=7731030208
+2025-06-18 16:40:05,140 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-18 16:40:05,140 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7731030208)
+2025-06-18 16:40:10,956 - WARNING - Received SIGINT signal
+2025-06-18 16:40:10,963 - INFO - Polling stopped for bot @translit_telebot id=7731030208 - 'Телеграм транслит бот'
+2025-06-18 16:40:10,974 - INFO - Polling stopped

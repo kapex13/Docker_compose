@@ -1,0 +1,20 @@
+# Базовый образ с Python
+FROM python:3.11-slim
+
+# Рабочая директория внутри контейнера
+WORKDIR /app
+
+# Копируем зависимости
+COPY requirements.txt .
+
+# Устанавливаем зависимости
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Копируем весь код приложения внутрь контейнера
+COPY . .
+
+# Открываем порт Streamlit
+EXPOSE 8501
+
+# Запускаем Streamlit
+CMD ["streamlit", "run", "myapp.py", "--server.port=8501", "--server.address=0.0.0.0"]
